@@ -5,7 +5,7 @@
 # 👋!
 ## Hi there 
 ### About me.
-- 👨‍💻 Senior Data Engineer @VIA Varejo.
+- 👨‍💻 Manager Data Engineer @Stone.
 - 🥋 Green Belt Krav Maga FSAKM
 - 👨‍🎓 Postgraduate in Data Science - Business Intelligence
 
